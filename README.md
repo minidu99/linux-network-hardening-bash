@@ -1,2 +1,3 @@
 # linux-network-hardening-bash
-A Bash-based utility that automates essential security checks and hardening steps to help users better protect their systems. Tailored for Debian-based distributions, it streamlines common security tasks into a single, easy-to-run script.
+A set of modular Bash scripts focused on assessing and strengthening network security on Linux systems. The repository provides command-line tools for firewall configuration, network interface and port monitoring, lightweight intrusion detection support, and automated network hardening tasks.
+Built specifically for Debian-based Linux distributions
